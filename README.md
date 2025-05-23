@@ -23,7 +23,7 @@ Key learnings:
 ## Skills and Interests
 
 ### Evidence
-![Skills and Interests Completion](./artefacts/skills-and-interest.png)
+[Skills and Interests Completion](./artefacts/skillsandinterest.png)
 
 ### Reflection (STAR Technique)
 - **Situation:** Assessed my skills and interests to identify career compatibility
