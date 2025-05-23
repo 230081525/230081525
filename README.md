@@ -6,7 +6,7 @@ Welcome to my digital portfolio, where I share evidence and STAR reflections fro
 ## Career Counselling
 
 ### Evidence
-[View Career Development Completion Evidence](./artefacts/careerdevelopment.png)
+[View Career Development Completion](./artefacts/careerdevelopment.png)
 
 ### Reflection (STAR Technique)
 - **Situation:** Completed the career development module as part of work readiness training
@@ -23,7 +23,7 @@ Key learnings:
 ## Skills and Interests
 
 ### Evidence
-[Skills and Interests Completion](./artefacts/skillsandinterest.png)
+[View Skills and Interests Completion](./artefacts/skillsandinterest.png)
 
 ### Reflection (STAR Technique)
 - **Situation:** Assessed my skills and interests to identify career compatibility
@@ -40,7 +40,7 @@ Key learnings:
 ## Personality Assessment
 
 ### Evidence
-![Personality Assessment Completion](./artefacts/personality-assesment.png)
+[View Personality Assessment Completion](./artefacts/personalityassesment.png)
 
 ### Reflection (STAR Technique)
 - **Situation:** Took personality assessment to determine career compatibility
@@ -57,7 +57,7 @@ Key learnings:
 ## Create a CV
 
 ### Evidence
-![CV Creation Completion](./artefacts/create-a-cv.png)
+[CV Creation Completion](./artefacts/create-a-cv.png)
 
 ### Reflection (STAR Technique)
 - **Situation:** Needed to create a professional CV for job applications
@@ -75,7 +75,7 @@ Key learnings:
 ## CV Submission
 
 ### Evidence
-![Submitted CV](./artefacts/cv-submission.png)
+[Submitted CV](./artefacts/cvsubmission.png)
 
 ### Reflection (STAR Technique)
 - **Situation:** Prepared final CV for submission
