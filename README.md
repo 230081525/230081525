@@ -57,7 +57,7 @@ Key learnings:
 ## Create a CV
 
 ### Evidence
-[CV Creation Completion](./artefacts/create-a-cv.png)
+[CV Creation Completion](./artefacts/createacv.png)
 
 ### Reflection (STAR Technique)
 - **Situation:** Needed to create a professional CV for job applications
