@@ -1,4 +1,4 @@
-# 💼 Hi, I'm Avela Silo
+# Avela Silo
 Welcome to my digital portfolio, where I share evidence and STAR reflections from my journey through the **Work Readiness Training Programme**.
 
 ---
