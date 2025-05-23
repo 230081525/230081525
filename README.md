@@ -6,7 +6,7 @@ Welcome to my digital portfolio, where I share evidence and STAR reflections fro
 ## Career Counselling
 
 ### Evidence
-![Career Development Completion](./artefacts/career-development.png)
+[View Career Development Completion Evidence](./artefacts/careerdevelopment.png)
 
 ### Reflection (STAR Technique)
 - **Situation:** Completed the career development module as part of work readiness training
