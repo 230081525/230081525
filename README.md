@@ -121,6 +121,8 @@ Key features of my CV:
 
 ### Evidence
 [Mock Interview Video](https://github.com/wil-it2025/cv-tutorial-230081525)
+[Mock Interview](./artefacts/mockinterview.png)
+
 
 ### Reflection (STAR)
 **Situation:** As part of my work readiness programme, I was required to conduct a mock interview and record myself responding to a set of standard interview questions.
