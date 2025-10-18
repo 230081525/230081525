@@ -100,7 +100,12 @@ Key features of my CV:
 - **Task:** demonstrate an understanding of various communication forms, appropriate tone in emails, and professional behavior during online meetings.
 - **Action:** I answered multiple-choice questions on topics such as formal vs informal language, non-verbal cues, and video conferencing etiquette.
 - **Result:** I improved my awareness of how communication affects workplace relationships. I now pay more attention to tone, clarity, and professionalism in my written and verbal communication.
-
+  
+Key Learnings:
+- Effective workplace communication requires attention to tone, clarity, and professionalism.
+- Different communication forms (emails, meetings, non-verbal cues) require different approaches.
+- Clear and respectful communication strengthens workplace relationships and prevents misunderstandings.
+  
 ---
 
 ## Interview Skills
@@ -114,7 +119,11 @@ Key features of my CV:
 - **Task:**  My objective was to understand how to respond effectively to typical interview questions and learn techniques that employers expect from candidates.
 - **Action:**  I completed an online multiple-choice assessment that tested my knowledge of the CAR method, company research, and effective self-introduction strategies. 
 - **Result:** This exercise helped me build confidence in structuring interview answers clearly and positively. I learned how to link my experiences to the position requirements and present myself as a strong, well-prepared candidate. 
-
+Key Learnings:
+- Structured techniques like CAR (Challenge, Action, Result) help in delivering concise and impactful answers.
+- Preparing answers in advance and understanding employer expectations builds confidence.
+- Linking personal experiences to the role demonstrates suitability and readiness.
+  
 ---
 
 ## Mock Interview
@@ -129,7 +138,11 @@ Key features of my CV:
 - **Task:** My goal was to simulate a professional interview experience, practice my communication and body language, and apply the techniques learned from previous interview training.
 - **Action:** I prepared my answers in advance using the STAR and CAR techniques. I dressed professionally, recorded the interview in a quiet space, and focused on maintaining eye contact, good posture, and clear speech throughout the video.
 - **Result:** The mock interview experience helped me become more confident and aware of my strengths and areas for improvement. I noticed that I could speak more fluently under pressure and organize my answers effectively. This practice made me feel more prepared for real job interviews in the future.
-
+Key Learnings:
+- Practicing interviews enhances self-confidence and reduces nervousness under pressure.
+- Body language, posture, eye contact, and clear speech significantly influence professional perception.
+- Reviewing recorded responses helps identify strengths and areas for improvement for future interviews.
+  
 ---
 
 ## Professional Networking
@@ -142,7 +155,11 @@ Key features of my CV:
 - **Task:** to learn effective networking strategies and identify common mistakes to avoid when engaging with professionals, both online and in person.
 - **Action:** I completed the quiz and reviewed the explanations for each question. I also took the initiative to update my LinkedIn profile and started connecting with classmates and professionals in the ICT industry.
 - **Result:** I now understand the importance of maintaining meaningful and respectful connections in professional spaces. I learned that networking is about building mutually beneficial relationships rather than just seeking opportunities. As a result, I feel more confident reaching out to others and participating in industry discussions online.
-
+Key Learnings:
+- Networking is about building meaningful, mutually beneficial relationships, not just seeking opportunities.
+- Maintaining an updated professional profile (e.g., LinkedIn) and engaging with peers and professionals is essential.
+- Awareness of professional etiquette in online and in-person interactions strengthens credibility and opportunities in the industry.
+  
 ---
 
 ## Workplace Etiquette
@@ -155,7 +172,11 @@ Key features of my CV:
 - **Task:** to identify the correct professional behavior in common workplace situations, such as handling confidential information, time management, and communication with colleagues.
 - **Action:** I went through each question carefully and applied what I learned from the etiquette lessons.
 - **Result:** I gained a clearer understanding of the expectations within a professional environment. I now recognize the importance of punctuality, confidentiality, and maintaining respectful communication. This knowledge will help me transition smoothly into the workplace and demonstrate maturity and responsibility in any professional setting.
-
+Key Learnings:
+- Professional behavior includes punctuality, respect, confidentiality, and responsible communication.
+- Understanding workplace expectations ensures smooth integration and positive impressions.
+- Applying etiquette consistently demonstrates maturity, reliability, and readiness for professional environments.
+  
 ---
 
 Thank you for viewing my portfolio!  
